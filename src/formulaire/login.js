@@ -1,0 +1,18 @@
+function formul() {
+    return (
+
+        <>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </>
+    )
+}
+      
